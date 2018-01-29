@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "961396912781",
+    "firebase_url": "https://hkapp-6383d.firebaseio.com",
+    "project_id": "hkapp-6383d",
+    "storage_bucket": "hkapp-6383d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961396912781:android:67b1a425626685af",
+        "android_client_info": {
+          "package_name": "com.veryworks.iyeongjun.hkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961396912781-ffu5giq473ggddj3598eet5ihv75r4qd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.veryworks.iyeongjun.hkapp",
+            "certificate_hash": "85b30ddc1bdb4d9fb89972479333da4151c8a418"
+          }
+        },
+        {
+          "client_id": "961396912781-ngmp8dmvkhgln4u91li8g9fpdo17pn4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdwhOwlT8L5uCQ6uoWuW7K0UyBMutgKhs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961396912781-ngmp8dmvkhgln4u91li8g9fpdo17pn4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
