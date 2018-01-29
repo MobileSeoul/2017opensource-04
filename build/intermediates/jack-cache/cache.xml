@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/iyeongjun/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        revision="26.0.0"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/core-3.3.0-32be29557fb70dc2e05713d4606055cd4f135afd.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/6b8a973abff398d57b48bcae2386b1631d8d55e8/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-55e2b74a0549c1294aa8e2ad7c255f3d81dfc1af.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-ddb/2.2.22/a1e0dd0d91d40d9e67342d3a8bd26f08edaa3549/aws-android-sdk-ddb-2.2.22.jar"
+        revision="26.0.0"
+        sha1="a1e0dd0d91d40d9e67342d3a8bd26f08edaa3549">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/aws-android-sdk-ddb-2.2.22-ee0cff6c9f8f75cba2cbf7cc873511b479407f0e.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/ba09b3ff2a9bb8e6f5f2e09185f4b3efa947b745/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-3512b0eee9bd4e5d8fce4a903cea3dd0f1367f0a.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/83ffe6dc5c5c66dc8df20e26cbbe037ada6ec73f/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="6f8ebc57d56fc76e0958b001c78dd94937d295b4">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-abde7d1f366bc3b34ae800221abfbac12ebd8988.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/d83c4fc4535fd911df0ad64e41d1d7fdcaab626c/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="4394e0421a1e2c0cb691a783a393c192a84697ab">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-088ae1c5cd831eedafefa7113c57f24cc1df3d6b.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/constraint-layout-solver-1.0.2-747e702f70b81462ae3ad299e3d7ea079b54a522.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/6f9b9f490c2c0e0c67d085655c39c519e47372bc/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-0f08052131d80c360ef2532ad8c6f84dcfa7dc5d.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/f9b301885c10bf2c07723151d25d3aa147a9fedf/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-b79d7e88ed6e304f9e6d66af657fe6c6801c3651.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/b6c408c1f7b4aa2253d08120f3c6bf0f5a5d6536/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="dc83ab7a5ce1e0296cf18a52a6edbcfef815e6cf">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-24bfe936d4d7fb28e3ca92393ea483724a2bb37b.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.4.0/cc174c559b5177982887bf6e1b76003aebad9516/bolts-android-1.4.0.jar"
+        revision="26.0.0"
+        sha1="cc174c559b5177982887bf6e1b76003aebad9516">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/bolts-android-1.4.0-7b795df37f2b582515458031bed065dea9e8b8f7.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        revision="26.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/gson-2.7-fb8ac63c8a453555f6527febd89615bfc31fd93d.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.2.22/c6789de00db9d1f93faec881fa0c1f5960fb8a15/aws-android-sdk-core-2.2.22.jar"
+        revision="26.0.0"
+        sha1="c6789de00db9d1f93faec881fa0c1f5960fb8a15">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/aws-android-sdk-core-2.2.22-07867737fb35de9ec716cd46762deabed49075f2.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/e6702f5f9a89dd4d1c2e654de84d068eee68477e/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="ab6e491b5d7bda2f47991a30f6bfe9a8b134ff8b">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-2c58fae41253446f8ee060f0031b7cbc2df24434.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/8846d41682fedac26a84e713eaa10c56f455be3f/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-8921493ede6b1601a427475bf130e9866a73b695.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/614a7f57f77e0754b114934b4fa93d85e2784ca4/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-012d2f308bf88c920794c1a877470abde712caaa.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/d6a8d773725fb925cae643755591f68fc266eb65/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-1c4147758b99d0ef8e574ebd0eda47c13d20ede5.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/03b77300cc9e67bfc3c670df5a8c5b4bb32053a8/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-8bb87132905e482ea80b6cae2b076f8064b6d5c4.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.7/8c6d3f76a0b8ed49e9d49a5af9c80c5fc2091677/rxjava-2.1.7.jar"
+        revision="26.0.0"
+        sha1="8c6d3f76a0b8ed49e9d49a5af9c80c5fc2091677">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/rxjava-2.1.7-6428c8b8f5f9e1c59e864a299acfed5f61fbbc14.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        revision="26.0.0"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/butterknife-annotations-8.8.1-d18744012d111d58d3197631dc189c94c0865816.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/490db86a29d1c828bf31e54889220fd018d0c81a/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-4c06ac1f5f0cd8e968122a9b6a3773021db94b82.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/cfe9102af74c090a5f69ac44a1eceff4c599bc8e/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-cfe557e5f8b5b1c24ea3d441cda8807dbd688b38.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/4e70cdf696039a5df066fd1984e383c031966fa8/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-fbd855d08426991605c1ede71aeccc54c184012b.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/724cf2ba537b1231d99b38192254831fcbb36e89/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="af20faf2a6fff6cac01bb9ee4130ee942a29ec22">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-3c0a6c7084793e7b3f9ec801f7d7a22a77d8c351.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/207f33a4e17f4c239f902fce06abb9eca8a37a33/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-52f02644d0792fa2606489c1c98f4de998043050.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/caa954401c1accb908045402c1624043957dfdc5/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-a757c37cf96c240ddda98e3cf8d2935beb328104.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        revision="26.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/bolts-tasks-1.4.0-921c089a1f5121b48f0597a18d1aa8a3334e1156.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/Library/Android/sdk/platforms/android-26/optional/org.apache.http.legacy.jar"
+        revision="26.0.0"
+        sha1="11a66d3dd39e1bf29d1e9e960da0f6d1787937b0">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackRuntimeLibraries/release/jars/8000/40/org.apache.http.legacy-2c731f3de86e8d48ef43d0c0562c0e27f5d53d65.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/b9281a63cbb5e3b9d9986cfba6fbff69f2663123/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-cb9e872e2ebb994f33785ba64cc782cc4c9b665e.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/dd72bcf3dd0dceb4a83fac24567dcd619c5a47a6/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-1ce768c20aee47938671cd0536fb8a7df5190454.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-s3/2.2.22/40fe82092e0ae3ca549b132a1e7e876807525176/aws-android-sdk-s3-2.2.22.jar"
+        revision="26.0.0"
+        sha1="40fe82092e0ae3ca549b132a1e7e876807525176">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/aws-android-sdk-s3-2.2.22-8d074ce15afb25cf7cc5652f92e0e0c6de9b9b1d.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/support-annotations-25.3.1-b2dc59010c08e2d9391597de267ec628469e355c.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/f8d88d28260495341bcbcdac156b2d2514b95612/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-ba31892655d01d89fbca45492e1457ff9044e924.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/bf7a547745f03aa3bc7aed74f3cf3b325c724351/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="287f4dec8dc2d40a238b12562b437438499cd2fb">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-a84039a33272dd691e8ca9f9be121f631962db41.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/08624ce60dfdbf093d4aba1de10b158e7c3411ff/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="2c8af48ae86723e44761977b30d63df71a00ef4e">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-da1a239bcad7ec827e92eb7d7ddcee288defd4fb.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/53a9a5fde815186f809a1428b2cffbe29b629aa7/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-da66c6e22f921663b166c45ab0ad8d912d88f1bf.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        revision="26.0.0"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/okhttp-3.8.0-dd1457434223dc48627ce6efce5874bffc2adfea.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/c8add7f090c75ab22849fa49072cee399ad13c5c/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-8b1f2e75000c2a0f17019347502953afc3095d0d.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/787c882938579856f4469cded75db03706b4df50/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-a8d8a5ca8b274fd886a1ca795a7df05651565b71.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/c58ad1287403c4adcc448858945d6103707befd4/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-de0d148843b9d56835e16fb6424e7c6458f00a5e.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/6901b029b2d1a4e5e32817947987f3e7c78b3e55/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="970b2eadc8805e4e04a9008f97368c7b8cc78651">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-5caa25368e29ae0e497cf338c5c4fd56de1a92df.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/04e510391485115fd1abd597809ff073d6ddcd85/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-4664af07979ff77710feb53131d1113d86afcd7f.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/199ba755230b621e20a9ced56deb6954e607250d/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-b40188684acd287347f9386364d9f65f42f3e480.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        revision="26.0.0"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/retrofit-2.3.0-e753db586ca97d98110c7a11bc4274170ed0a009.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/600848ae294f4ebe03fe0d8a8963f3dfb32a8714/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-d82f44f17e1b46e59a9a984f19ef24615b1b3752.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/picasso-2.5.2-8c6228ef5c39a3d42f5be9d148a5e5370a4fc9a5.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/d7afd8a8702dcf8bc75d851124b7e44708d7927a/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-02615c0e6f21708b3ca238803593415b5853d9fd.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        revision="26.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/okio-1.13.0-c9ea320c091c11d5c95027bf94e26dc213025648.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/5458bb163ff85dc54f2fdab6faccf9058a910bf1/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="814fc0c3ec69a944add398217d90077301501a74">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-7116061b0225e1ca56565942c2099ff8a438e511.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/8565da9db74e67784ed7e269a33cc2022255df53/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-0e06f8888a36e1e82bd38759b63b49cb2080e04f.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        revision="26.0.0"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/converter-gson-2.3.0-7f288473e37fc800361bb131f62bd94de50a464d.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/96ae1b69479dc52c72739fb8f5cc6782a9304877/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-d9fef3ef908468fda304266df0fb7128bb385628.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/4178749e8c8a3a081a90f7391438863df2236f30/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-f73cab78e84d49d0a4c6be03dfe84261bd873e64.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        revision="26.0.0"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/glide-3.6.0-f932531652b9d6d41847389fc9f1de5862c266b1.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/eabcf7658b35bb163af2a7b4804648d8acebbdde/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-f045007121c1b74ef7860669891cc3aa3d77b32e.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/Library/Android/sdk/platforms/android-26/android.jar"
+        revision="26.0.0"
+        sha1="f7a1d587eac1c2ac69db49a223ed438c7f0f31c0">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackRuntimeLibraries/release/jars/8000/40/android-0b921cc56960b551a63a152d6775071c67b50613.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        revision="26.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/bolts-applinks-1.4.0-1fa550b1aef57f77d9749c92dba017bf07c93541.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/3b68b30a3398af475b50df80dceb1b6888d08938/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="bbf90181fea46399a9e3d0f4326883a505f71952">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-a0f7710cc208bbef6561b37094d78756b3f169d4.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/8e13fd7e7d62cab35ae2d44d34abd1b0affa30ef/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-427c32fd54fb3d62634bc3334b5c6dddf0495096.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/4a1b7e4aff5fa82fb8c311c9c4b0ea20708c11dc/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-03fbb203169df0320cc0770453fa8500fc90f52d.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.1/1b1c911686eb40179219466e6a59b634b9d7a748/reactive-streams-1.0.1.jar"
+        revision="26.0.0"
+        sha1="1b1c911686eb40179219466e6a59b634b9d7a748">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/reactive-streams-1.0.1-6f9c36de8b1cb56d8b2b222f0202d7bbaa9a59f0.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/8744b481ee745a954b1ae9a755c583421bb00bd8/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-19bd55d30fc4b8a5b73c6a3bbd122dac87310499.jar" />
+    </item>
+    <item
+        jar="/Users/iyeongjun/.android/build-cache/5550f64fa42bd58db2210e59d30dc9cff0397872/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/iyeongjun/Downloads/HKapp2/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-d5febeeae0e8b0059aca62ff7a1a477e6ad7cdd2.jar" />
+    </item>
+
+</items>
